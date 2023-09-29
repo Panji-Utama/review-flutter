@@ -1,6 +1,6 @@
 # e_commerce
 
-A new Flutter project.
+A project made to refresh my knowledge of Flutter and its kind. This project is a prototype for a mobile-based e-commerce application.
 
 ## Getting Started
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## License
+This project is protected under the [MIT License](LICENSE).
